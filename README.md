@@ -1,1 +1,1 @@
-# Treino-para-Maratonas-de-Computa-o
+# Treino-para-Maratonas-de-Computação
